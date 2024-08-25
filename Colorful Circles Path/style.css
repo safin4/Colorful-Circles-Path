@@ -1,0 +1,16 @@
+*
+body,html
+{
+    background-color: #444;
+    margin: 0px;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.grid
+{
+    width: 70%;
+}
